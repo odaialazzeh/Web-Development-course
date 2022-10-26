@@ -16,7 +16,13 @@ You will learn all about web programming from scratch and will be able to design
 
 ## Screenshot
 
+### Home Page 
+
 ![home-page](images/home-page.png)
+
+
+### About Page 
+
 ![about-page](images/about-page.png)
 
 ## Go Live 
