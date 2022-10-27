@@ -99,5 +99,7 @@ for (let i = 0; i < array.length; i += 1) {
 const list = document.querySelector('.main-program');
 
 window.addEventListener('load', () => {
-  list.after(section);
+  if (typeof (list) !== 'undefined' && list != null) {
+    list.after(section);
+  }
 });
