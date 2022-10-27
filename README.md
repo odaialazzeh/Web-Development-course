@@ -23,7 +23,7 @@ You will learn all about web programming from scratch and will be able to design
 
 ### About Page 
 
-![about-page](images/about-page.png)
+![about-page]()
 
 ## Go Live 
 https://odaialazzeh.github.io/capstone1-project/home.html
