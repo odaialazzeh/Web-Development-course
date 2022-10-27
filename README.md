@@ -26,7 +26,7 @@ You will learn all about web programming from scratch and will be able to design
 ![about-page](images/about-page.png)
 
 ## Go Live 
-https://odaialazzeh.github.io/capstone1-project/
+https://odaialazzeh.github.io/capstone1-project/home.html
 
 
 ## Getting Started
@@ -82,6 +82,8 @@ A list of resources that i find helpful and would like to give credit to :
 - [Youtube ](https://www.youtube.com)
 - [W3schools ](https://www.w3schools.com)
 - [Stackoverflow ](https://stackoverflow.com)
+- [Cindy Shin ( author of the original design)](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
 
 ## 📝 License
 
