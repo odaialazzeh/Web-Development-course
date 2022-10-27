@@ -97,8 +97,8 @@ body {
   color: #ec5242;
 }
 
-.home-about p {
-  margin: 0 0.5em;
+.home-about h1 {
+  margin: 2em 5em 1em;
   font-size: 3em;
   font-weight: 900;
   color: #ec5242;
@@ -804,5 +804,23 @@ nav.menu-btn #close-menu {
     font-size: 1.5em;
     font-weight: 400;
     line-height: 0.2em;
+  }
+
+  #footer-upA {
+    display: none;
+  }
+
+  #footer-downA {
+    background-color: #272a31;
+    color: white;
+    padding-bottom: 4em;
+  }
+
+  #footer-downA .left h2 {
+    font-size: 3em;
+  }
+
+  #footer-downA .left h2 span {
+    border: 2px solid white;
   }
 }
