@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,500&display=swap");
-
 body {
   margin: 0;
   font-family: lato, sans-serif;
@@ -39,20 +38,17 @@ body {
   position: relative;
   margin: 0;
 }
-
 .home h2 {
   margin: 2em 0 0 0.5em;
   font-size: 2em;
   font-weight: 500;
   color: #ec5242;
 }
-
 .home h3 {
   margin: 1em 0 0 0.5em;
   font-size: 2em;
   font-weight: 700;
 }
-
 .home .p-home p {
   font-size: 1em;
   font-weight: 700;
@@ -62,14 +58,12 @@ body {
   margin: 1em;
   padding: 1em;
 }
-
 .home #about-p p {
   background-color: white;
   border: 1px solid #c4c4c4;
   text-align: center;
   padding: 1em;
 }
-
 .home #p-main {
   margin: 0 0.5em;
   font-size: 3em;
@@ -87,23 +81,19 @@ body {
   align-content: center;
   text-align: center;
   background-color: #f3f3f3;
-  position: relative;
 }
-
 .home-about h2 {
   margin: 2em 0 0 0.5em;
   font-size: 2em;
   font-weight: 500;
   color: #ec5242;
 }
-
 .home-about h1 {
   margin: 2em 5em 1em;
   font-size: 3em;
   font-weight: 900;
   color: #ec5242;
 }
-
 .home-about .p-about p {
   font-size: 1em;
   font-weight: normal;
@@ -114,13 +104,11 @@ body {
   padding: 1em;
   color: black;
 }
-
 .home-about h3 {
   font-size: 1.5em;
   font-weight: 700;
   text-align: center;
 }
-
 .home-about .a-about a {
   display: flex;
   justify-content: center;
@@ -140,11 +128,9 @@ body {
   margin: 0 auto;
   padding-bottom: 2em;
 }
-
 .main-program #h3-mainP {
   display: none;
 }
-
 .main-program h2 {
   color: white;
   font-weight: normal;
@@ -153,7 +139,6 @@ body {
   padding-top: 1.5em;
   margin-top: 0;
 }
-
 .main-program a {
   display: flex;
   flex-direction: column;
@@ -171,7 +156,6 @@ body {
   flex-direction: column;
   margin-bottom: 2.5em;
 }
-
 .cards .container {
   display: grid;
   grid-template-columns: 20% 20% 60%;
@@ -180,17 +164,14 @@ body {
   background-color: rgba(255, 255, 255, 0.2);
   margin: 0.5em;
 }
-
 .cards .container img {
   padding-left: 1em;
   width: 3em;
   height: 3em;
 }
-
 .cards .container h3 {
   color: #ec5242;
 }
-
 .cards .container p {
   margin: 1em;
 }
@@ -204,36 +185,30 @@ body {
   margin-top: 1em;
   border-bottom: 1px solid #e9e9e9;
 }
-
 .about-logo h2 {
   margin: 0;
   padding: 1em;
   text-align: center;
 }
-
 .about-logo p {
   text-align: center;
   margin: 0 2em 2em;
   line-height: 1.5em;
 }
-
 .about-logo .left {
   border: 1px solid #e9e9e9;
   margin: 0 2em 4em 2em;
 }
-
 .about-logo .left h2 {
   font-size: 3em;
   margin: 0 0 -1em 0;
 }
-
 .about-logo .left h2 span {
   font-size: 1em;
   border: 3px solid #272a31;
   border-radius: 4em;
   padding: 0.2em;
 }
-
 .about-logo .left h3 {
   margin: 0 0 3em 13em;
   font-size: 0.65em;
@@ -245,26 +220,22 @@ body {
   background-color: white;
   margin: 0 auto;
 }
-
 .last-course h2 {
   text-align: center;
   margin: 0;
   padding: 1em 0;
 }
-
 .last-course p {
   text-align: center;
   margin: 0;
   padding-bottom: 1em;
 }
-
 .last-course .img-course {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-
 .last-course .img-course .course1 {
   width: 22em;
   height: 15em;
@@ -274,7 +245,6 @@ body {
   background-size: cover;
   margin: 1em 0;
 }
-
 .last-course .img-course .course1 h2 {
   color: white;
   padding-top: 1.5em;
@@ -282,13 +252,11 @@ body {
   font-weight: 700;
   font-size: 2.5em;
 }
-
 .last-course .img-course .course1 p {
   color: white;
   margin-top: -1em;
   font-weight: 700;
 }
-
 .last-course .img-course .course2 {
   width: 22em;
   height: 15em;
@@ -298,7 +266,6 @@ body {
   background-size: cover;
   margin-bottom: 2em;
 }
-
 .last-course .img-course .course2 h2 {
   color: white;
   padding-top: 1.5em;
@@ -306,7 +273,6 @@ body {
   font-weight: 700;
   font-size: 2.5em;
 }
-
 .last-course .img-course .course2 p {
   color: white;
   margin-top: -1em;
@@ -325,7 +291,6 @@ body {
   align-items: center;
   flex-wrap: wrap;
 }
-
 .speaker-container .speakerP {
   display: grid;
   grid-template-columns: 35% 65%;
@@ -335,7 +300,6 @@ body {
   margin: 1em;
   position: relative;
 }
-
 .speaker-container .speakerP .info-speaker {
   display: flex;
   flex-direction: column;
@@ -343,19 +307,16 @@ body {
   align-items: flex-start;
   margin: 0 2em;
 }
-
 .speaker-container .speakerP .info-speaker h3 {
   margin-top: -1em;
   color: #ec5242;
   font-weight: normal;
   font-style: italic;
 }
-
 .speaker-container .speakerP .info-speaker p {
   font-size: small;
   line-height: 1.5em;
 }
-
 .speaker-container .speakerP .img-speaker::before {
   content: " ";
   background-image: url("images/chess.png");
@@ -369,13 +330,11 @@ body {
   right: 0;
   position: absolute;
 }
-
 .speaker-container .speakerP .img-speaker {
   position: relative;
   width: 10em;
   height: 10em;
 }
-
 .speaker-container .speakerP .img-speaker img {
   position: absolute;
   background-color: white;
@@ -389,13 +348,11 @@ body {
   margin-top: -1.3em;
   background: #272a31;
 }
-
 .footer-up h2 {
   color: white;
   text-align: center;
   padding-top: 1.5em;
 }
-
 .footer-up ul {
   display: flex;
   flex-direction: row;
@@ -404,11 +361,9 @@ body {
   align-items: center;
   margin: 0 0 0 -5.5em;
 }
-
 .footer-up ul li {
   margin: 0 0 1em 3em;
 }
-
 .footer-up ul li img {
   width: 6em;
   height: 2em;
@@ -420,30 +375,25 @@ body {
   flex-direction: row;
   background: white;
 }
-
 .footer-down .left h2 {
   margin: 0 0 -1.4em 0;
   padding: 1.5em;
 }
-
 .footer-down .left h2 span {
   font-size: 0.7em;
   border: 2px solid #272a31;
   border-radius: 4em;
   padding: 0.3em;
 }
-
 .footer-down .left h3 {
   margin: 0;
   font-size: 0.65em;
   margin-left: 8em;
   font-weight: bold;
 }
-
 .footer-down .right {
   margin: 2.5em 0 0 2em;
 }
-
 .footer-down .right h3 {
   font-size: small;
   font-weight: 400;
@@ -467,7 +417,6 @@ nav.menu-btn {
   height: 100vh;
   padding: 1em;
 }
-
 nav.menu-btn .up-nav {
   display: flex;
   flex-direction: row;
@@ -477,39 +426,32 @@ nav.menu-btn .up-nav {
   margin-left: 2em;
   border-radius: 0.5em;
 }
-
 nav.menu-btn .up-nav ul {
   display: flex;
   flex-direction: row;
   list-style: none;
   font-size: small;
 }
-
 nav.menu-btn .up-nav ul li {
   padding-left: 0.7em;
 }
-
 nav.menu-btn .down-nav a {
   text-decoration: none;
   color: white;
   cursor: pointer;
 }
-
 nav.menu-btn .down-nav ul {
   list-style: none;
   font-size: 2em;
   line-height: 1.5em;
 }
-
 nav.menu-btn .img-contact {
   position: absolute;
 }
-
 nav.menu-btn .img-contact img {
   width: 1em;
   height: 1em;
 }
-
 nav.menu-btn #campaign {
   text-decoration: none;
   margin-left: 1.7em;
@@ -518,7 +460,6 @@ nav.menu-btn #campaign {
   border: 3px solid #b1493b;
   padding: 0.5em;
 }
-
 nav.menu-btn #close-menu {
   background-color: #b1493b;
   float: right;
@@ -534,21 +475,18 @@ nav.menu-btn #close-menu {
   nav {
     display: block;
   }
-
   .logo {
     display: block;
   }
-
   .logo img {
-    width: 25em;
+    width: 20em;
+    height: 5em;
     cursor: pointer;
   }
-
   #open-menu,
-  #close-menu {
+#close-menu {
     display: none;
   }
-
   .up-nav {
     display: flex;
     flex-direction: row;
@@ -556,17 +494,14 @@ nav.menu-btn #close-menu {
     margin-top: 0;
     background-color: #272a31;
   }
-
   .up-nav .img-contact {
     margin-right: -1.5em;
   }
-
   .up-nav .img-contact img {
     width: 1.5em;
     height: 1.5em;
     margin-top: 1em;
   }
-
   .up-nav ul {
     display: flex;
     flex-direction: row;
@@ -574,74 +509,61 @@ nav.menu-btn #close-menu {
     color: white;
     margin-right: 10em;
   }
-
   .up-nav ul li {
     list-style: none;
     padding-left: 1em;
   }
-
   .down-nav {
     background-color: white;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
-    margin-left: 5em;
   }
-
   .down-nav ul {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     list-style: none;
   }
-
   .down-nav ul li {
     padding-left: 3em;
   }
-
   .down-nav ul li a {
     text-decoration: none;
     color: #272a31;
   }
-
-  .down-nav #campaign {
+  .down-nav ul #campaign {
     text-decoration: none;
     color: #ec5242;
     border: 5px solid #ec5242;
     padding: 0.6em;
     margin-left: 6em;
   }
-
   .down-nav h2 {
     margin-left: 5em;
   }
-
   .home {
     margin: 2em 30em 2em 5em;
   }
-
   .home #p-main {
     font-size: 3.8em;
     margin-left: 10px;
   }
-
   .home h3 {
     font-size: 1.5em;
   }
-
   .home .p-home p {
     margin-right: 7em;
   }
-
   .main-program {
     padding-bottom: 5em;
   }
-
   .main-program h2 {
     margin-top: 0;
   }
-
   .main-program .cards {
     display: flex;
     flex-direction: row;
@@ -650,7 +572,6 @@ nav.menu-btn #close-menu {
     align-items: center;
     margin: 1em 1em 5em;
   }
-
   .main-program .cards .container {
     display: flex;
     flex-direction: column;
@@ -662,21 +583,17 @@ nav.menu-btn #close-menu {
     text-align: center;
     margin: 0.2em;
   }
-
   .main-program .cards .container img {
     margin-top: 1em;
     margin-left: -1em;
     margin-bottom: 0.2em;
   }
-
   .main-program .cards .container h3 {
     text-decoration: none;
   }
-
   .main-program a {
     display: none;
   }
-
   .main-program #h3-mainP {
     display: block;
     color: white;
@@ -684,7 +601,6 @@ nav.menu-btn #close-menu {
     font-weight: normal;
     text-decoration: underline;
   }
-
   .speaker-container {
     display: grid;
     grid-template-columns: auto auto;
@@ -692,28 +608,22 @@ nav.menu-btn #close-menu {
     justify-content: center;
     align-items: center;
   }
-
   .speaker-container .speakerP .img-speaker {
     margin-right: 2em;
   }
-
   .home-about h2 {
     display: none;
   }
-
   .home-about p {
     margin: 2em 5em 1em;
   }
-
   .home-about .p-about p {
     margin: 0 13em;
   }
-
   .home-about h3 {
     font-weight: normal;
     margin-bottom: 0;
   }
-
   #img-course {
     display: flex;
     flex-direction: row;
@@ -721,7 +631,6 @@ nav.menu-btn #close-menu {
     align-items: center;
     margin: 3em 1em 5em 1em;
   }
-
   #img-course .course1 {
     width: 22em;
     height: 15em;
@@ -731,7 +640,6 @@ nav.menu-btn #close-menu {
     background-size: cover;
     margin: 1em;
   }
-
   #img-course .course1 h2 {
     color: white;
     padding-top: 1.5em;
@@ -739,13 +647,11 @@ nav.menu-btn #close-menu {
     font-weight: 700;
     font-size: 2.5em;
   }
-
   #img-course .course1 p {
     color: white;
     margin-top: -1em;
     font-weight: 700;
   }
-
   #img-course .course2 {
     width: 22em;
     height: 15em;
@@ -755,7 +661,6 @@ nav.menu-btn #close-menu {
     background-size: cover;
     margin: 1em;
   }
-
   #img-course .course2 h2 {
     color: white;
     padding-top: 1.5em;
@@ -763,64 +668,52 @@ nav.menu-btn #close-menu {
     font-weight: 700;
     font-size: 2.5em;
   }
-
   #img-course .course2 p {
     color: white;
     margin-top: -1em;
     font-weight: 700;
   }
-
   .footer-up {
     padding-bottom: 3em;
   }
-
   .footer-down {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
   }
-
   .footer-down .left h2 {
     font-size: 3em;
     margin-bottom: -1.6em;
   }
-
   .footer-down .left h2 span {
     font-size: 0.7em;
   }
-
   .footer-down .left h3 {
     font-size: 1em;
     margin-left: 11em;
     font-weight: normal;
   }
-
   .footer-down .right {
     margin-bottom: -3em;
   }
-
   .footer-down .right h3 {
     font-size: 1.5em;
     font-weight: 400;
     line-height: 0.2em;
   }
-
   #footer-upA {
     display: none;
   }
-
   #footer-downA {
     background-color: #272a31;
     color: white;
     padding-bottom: 4em;
   }
-
   #footer-downA .left h2 {
     font-size: 3em;
   }
-
   #footer-downA .left h2 span {
     border: 2px solid white;
   }
-}
+}/*# sourceMappingURL=style.css.map */
