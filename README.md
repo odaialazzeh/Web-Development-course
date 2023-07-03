@@ -5,8 +5,7 @@
 
  ### Web Development Course
  
-This course offers all the details that you require to fully learn about the world of web programming and coding.
-You will learn all about web programming from scratch and will be able to design your own websites by the end of this course.
+This project is about building a simple Front-end for an online website for a web development course
 
 
 ## Built With
