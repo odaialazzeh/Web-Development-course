@@ -25,7 +25,7 @@ This project is about building a simple Front-end for an online website for a we
 ![about-page](images/AboutPage.png)
 
 ## Go Live 
-https://odaialazzeh.github.io/capstone1-project/home.html
+https://odaialazzeh.github.io/Web-Development-course/
 
 
 ## Getting Started
